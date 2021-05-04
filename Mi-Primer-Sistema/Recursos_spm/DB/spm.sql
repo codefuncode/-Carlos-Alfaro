@@ -142,6 +142,7 @@ CREATE TABLE `usuario` (
 -- Índices para tablas volcadas
 --
 
+
 --
 -- Indices de la tabla `cliente`
 --
